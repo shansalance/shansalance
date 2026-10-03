@@ -1,6 +1,8 @@
 # Shan Salance
 
-I have a master’s in Data Science. My academic work explores explainable AI, sentiment analysis, computer vision, and statistical modeling.
+I build enterprise AI systems for risk and threat intelligence at Amazon. I have a master’s in Data Science and develop independent engineering projects in Python.
+
+My public work includes an event-processing pipeline and academic projects in explainable AI, sentiment analysis, computer vision, and statistical modeling.
 
 ## Independent engineering project
 
